@@ -16,7 +16,7 @@ For a truly unforgettable <a href="/#ptdi">North Yorkshire wedding day</a>, choo
 
 It’s easy to see why Yorebridge House is one of the most popular <a href="/#flw">wedding venues</a>. Our exquisite hotel is a <a href="/#flw">luxury wedding venue</a>, with indulgence at every turn. You can expect a taste of the finer things in life when you visit us.
 
-The North Yorkshire countryside is our backdrop, and it’s not one you’ll forget in a hurry. The tranquil atmosphere and scenery is contrasted by the wildness of the moors. With grand castles, huge waterfalls and medieval villages nearby, this is where fairy tales are made.
+The North Yorkshire countryside is our backdrop, and it’s not one you’ll forget in a hurry. The tranquil atmosphere and scenery are contrasted by the wildness of the moors. With grand castles, huge waterfalls and medieval villages nearby, this is where fairy tales are made.
 
 Yorebridge House is just as impressive inside as it is outside. The décor is pure elegance and you’ll appreciate the craftsmanship visible in every room. The bedrooms are contemporary and the views unrivalled. Plus, we’re generous with the extras – fluffy robes, premium food, specially selected wine and bar list and more. For those who want extra indulgence, choose a room with its own hot tub.
 
@@ -24,7 +24,7 @@ Yorebridge House was designed to have the wow factor. With extravagant interiors
 
 It’s easy to see why we’ve won numerous awards, including a 3AA Rosette for our restaurant. Couples will be delighted to know we were recently named the most romantic hotel in the UK.
 
-Those looking for <a href="/#flw">country wedding venues</a> will be delighted. There’s so much to see and do, your guests will feel like they could spend a week here. The world famous local Wensleydale cheese factory is on our doorstep, as are many walking trails, castles and family activities.
+Those looking for <a href="/#flw">country wedding venues</a> will be delighted. There’s so much to see and do, your guests will feel like they could spend a week here. The world-famous local Wensleydale cheese factory is on our doorstep, as are many walking trails, castles and family activities.
 
 <h2 class="section-title sub-title">Newcastle luxury hotel wedding venue</h2>
 Yorebridge House is one of the most <a href="/#sll">exclusive wedding venues</a> near Newcastle. One visit to our <a href="/#flw">luxury wedding venue</a> and you won’t want to consider anywhere else. Our grade II listed Victorian buildings are simply enchanting and the perfect place to start married life, surrounded by family and friends.
@@ -35,7 +35,7 @@ From the moment you arrive, you’ll see our passion for quality and luxury in e
 
 We’ll offer the same high level of service that we’d expect for our own family. Nothing is too much trouble for our team – whatever your wedding request, simply let us know.
 
-You will have a choice of rooms for your <a href="/#ptdi">North Yorkshire wedding day</a>. The Orangery, Marquee and Tipi all host up to 120 guests. The Orangery and The Masters Room hold licenses for civil marriages and civil partnerships. The Orangery has light flooding in from its panoramic windows, which offer the most stunning views of the countryside.
+You will have a choice of rooms for your <a href="/#ptdi">North Yorkshire wedding day</a>. The Orangery, Marquee and Tipi all host up to 120 guests. The Orangery and The Master's Room hold licenses for civil marriages and civil partnerships. The Orangery has light flooding in from its panoramic windows, which offer the most stunning views of the countryside.
 
 For couples who prefer <a href="/#yc">intimate wedding venues</a> near Newcastle, our Master Room holds up to 35 guests. The striking room overlooks the great lawn, giving a beautiful backdrop for your wedding photos. <a href="/#ptdi">unique wedding venues</a> like ours are rare and outstanding.
 
