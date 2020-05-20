@@ -1,6 +1,6 @@
 ---
 ID: 3414
-post_title: Leeds
+post_title: North Yorkshire Wedding Day in Leeds
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-05-19 18:20:33
 ---
-<p class="section-title">North Yorkshire Wedding Day in Leeds</p>
-
 <h2 class="section-title sub-title">Luxury Wedding Venue – make one of the most popular wedding venues yours for the day</h2>
 Those with a taste for the finer things in life choose Yorebridge House for their <a href="/#ptdi">North Yorkshire wedding day</a>. This stunning Victorian grade II listed buildings were formerly a Headmaster’s House and School. They sit against a mighty backdrop of hills and rivers in the countryside near Leeds, awaiting your visit.
 
