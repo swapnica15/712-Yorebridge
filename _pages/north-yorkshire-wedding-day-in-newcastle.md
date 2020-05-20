@@ -1,6 +1,6 @@
 ---
 ID: 3416
-post_title: Newcastle
+post_title: North Yorkshire Wedding Day in Newcastle
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-05-19 18:35:12
 ---
-<p class="section-title">North Yorkshire Wedding Day in Newcastle</p>
-
 <h2 class="section-title sub-title">Luxury wedding venue for those seeking 5 star wedding venues near Newcastle</h2>
 For a truly unforgettable <a href="/#ptdi">North Yorkshire wedding day</a>, choose Yorebridge House. This sophisticated, 5 star <a href="/#flw">luxury wedding venue</a> is in the countryside not far from Newcastle.
 
