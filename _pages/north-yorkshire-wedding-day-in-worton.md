@@ -1,6 +1,6 @@
 ---
 ID: 3394
-post_title: Worton
+post_title: North Yorkshire Wedding Day in Worton
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:47:20
 ---
-<p class="section-title">North Yorkshire Wedding Day in Worton</p>
-
 <h2 class="section-title sub-title">Idyllic luxury wedding venue for those looking for 5 star wedding venues near Worton</h2>
 <p>To make your <a href="/#ptdi">North Yorkshire wedding day</a> simply unforgettable, choose Yorebridge House. This sophisticated, 5 star <a href="/#sll">luxury wedding venue</a> is a few minutes’ drive away from Worton.</p>
 
