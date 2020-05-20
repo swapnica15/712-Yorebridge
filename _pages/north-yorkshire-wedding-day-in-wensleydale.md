@@ -1,6 +1,8 @@
 ---
 ID: 3391
-post_title: Wensleydale
+post_title: >
+  North Yorkshire Wedding Day in
+  Wensleydale
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +11,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:44:29
 ---
-<p class="section-title">North Yorkshire Wedding Day in Wensleydale</p>
-
 <h2 class="section-title sub-title">The ideal luxury wedding venue for those looking for 5 star wedding venues near Wensleydale</h2>
 Your <a href="/#ptdi">North Yorkshire wedding day</a> will be the most memorable day of your life at Yorebridge House. This elegant, 5 star <a href="/#sll">luxury wedding venue</a> is just minutes from Wensleydale.
 
