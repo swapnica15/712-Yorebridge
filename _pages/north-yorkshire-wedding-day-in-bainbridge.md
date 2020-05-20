@@ -1,6 +1,8 @@
 ---
 ID: 3368
-post_title: Bainbridge
+post_title: >
+  North Yorkshire Wedding Day in
+  Bainbridge
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +11,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:01:25
 ---
-<p class="section-title">North Yorkshire Wedding Day in Bainbridge</p>
-
 <h2 class="section-title sub-title">For a luxury wedding venue in a 5 star hotel, we’re the first choice in wedding venues</h2>
 Yorebridge House provides an idyllic setting for your <a href="/#ptdi">North Yorkshire wedding day</a>. We have recently been voted the most romantic hotel in the UK for our <a href="/#flw">luxury wedding venue</a>. The Victorian former Headmaster’s House and School are grade II listed. Set against Bainbridge’s picturesque scenery, this is a truly stunning venue for your <a href="/#ptdi">North Yorkshire wedding day</a>.
 
