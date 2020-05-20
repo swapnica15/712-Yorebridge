@@ -1,6 +1,8 @@
 ---
 ID: 3397
-post_title: Yorkshire Dales
+post_title: >
+  North Yorkshire Wedding Day in Yorkshire
+  Dales
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,7 +11,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:49:40
 ---
-<p class="section-title">North Yorkshire Wedding Day in the Yorkshire Dales</p>
 <h2 class="section-title sub-title">For a Luxury Wedding Venue choose Yorebridge, simply the best in Wedding Venues</h2>
 
 <p>When planning your <a href="/#ptdi">North Yorkshire wedding day</a>, look no further than Yorebridge House for the best <a href="/#sll">luxury wedding venue</a>. We&rsquo;ve been voted the most romantic hotel in the UK, and it&rsquo;s easy to see why. Set against a stunning backdrop of rolling hillsides and tranquil rivers, our Victorian grade II listed former Headmaster&rsquo;s House and School sit proudly, welcoming you to the heart of the Yorkshire Dales.</p>
