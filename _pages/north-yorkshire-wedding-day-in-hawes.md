@@ -1,6 +1,6 @@
 ---
 ID: 3375
-post_title: Hawes
+post_title: North Yorkshire Wedding Day in Hawes
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:13:26
 ---
-<p class="section-title">North Yorkshire Wedding Day in Hawes</p>
-
 <h2 class="section-title sub-title">Your perfect luxury wedding venue for 5 star wedding venues near Hawes</h2>
 Yorebridge House is the ideal choice to make your <a href="/#ptdi">North Yorkshire wedding day</a> the most memorable day of your life. Our <a href="/#sll">luxury wedding venue</a> is just minutes from Hawes, North Yorkshire.
 
