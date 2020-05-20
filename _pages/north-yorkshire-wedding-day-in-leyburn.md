@@ -1,6 +1,6 @@
 ---
 ID: 3378
-post_title: Leyburn
+post_title: North Yorkshire Wedding Day in Leyburn
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:16:45
 ---
-<p class="section-title">North Yorkshire Wedding Day in Leyburn</p>
 <h2 class="section-title sub-title">Luxury Wedding Venue in Leyburn – unforgettable Wedding Venues</h2>
 
 <p>Your <a href="/#ptdi">North Yorkshire wedding day</a> will be truly memorable with Yorebridge House <a href="/#sll">luxury wedding venue</a>. We have recently been voted the most romantic hotel in the UK and we&rsquo;d love to show you why. With stunning scenery, endless hillsides and picturesque rivers, the Victorian grade II listed former Headmaster&rsquo;s House and School sit proudly in the Leyburn countryside.</p>
