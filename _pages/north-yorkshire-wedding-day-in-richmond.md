@@ -1,6 +1,6 @@
 ---
 ID: 3387
-post_title: Richmond
+post_title: North Yorkshire Wedding Day in Richmond
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:41:53
 ---
-<p class="section-title">North Yorkshire Wedding Day in Richmond</p>
-
 <h2 class="section-title sub-title">Choose your ideal Luxury Wedding Venue from the best 5 star wedding venues near Richmond</h2>
 <p>Yorebridge House is here to make sure your <a href="/#ptdi">North Yorkshire wedding day</a> will be the most memorable day of your life, with our <a href="/#sll">luxury wedding venue.</a> Situated near Richmond, North Yorkshire, we will make your dream day complete.</p>
 
