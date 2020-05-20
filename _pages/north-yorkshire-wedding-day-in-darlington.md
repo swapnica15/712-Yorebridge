@@ -1,6 +1,8 @@
 ---
 ID: 3372
-post_title: Darlington
+post_title: >
+  North Yorkshire Wedding Day in
+  Darlington
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,8 +11,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:06:47
 ---
-<p class="section-title">North Yorkshire Wedding Day in Darlington</p>
-
 <h2 class="section-title sub-title">Luxury Wedding Venue in a 5 star hotel – wedding venues near Darlington</h2>
 Your <a href="/#ptdi">North Yorkshire wedding day</a> will truly be the most memorable day of your life, and a <a href="/#flw">luxury wedding venue</a> near Darlington will make your dream day complete.
 
