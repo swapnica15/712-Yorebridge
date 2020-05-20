@@ -1,6 +1,8 @@
 ---
 ID: 3381
-post_title: National Park
+post_title: >
+  North Yorkshire Wedding Day in a
+  National Park
 author: Bryan Richards
 post_excerpt: ""
 layout: page
@@ -9,7 +11,6 @@ permalink: >
 published: true
 post_date: 2020-01-29 06:19:33
 ---
-<p class="section-title">North Yorkshire Wedding Day in a National Park</p>
 <h2 class="section-title sub-title">For a luxury wedding venue in a 5 star hotel, look no further than our National Park wedding venues</h2>
 
 <p> Yorebridge House offers a picturesque backdrop for your <a href="/#ptdi">North Yorkshire wedding day</a>. We have been voted the most romantic hotel in the UK and it&rsquo;s easy to see why we&rsquo;re a <a href="/#flw">luxury wedding venue</a>. The Victorian former Headmaster&rsquo;s House and School are grade II listed. Set in the North York Moors National Park amongst rolling hillsides and scenic views, this is a spectacular setting for your <a href="/#ptdi">North Yorkshire wedding day</a>.</p>
