@@ -7,7 +7,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/north-yorkshire-wedding-day-in-the-yorkshire-dales/
+  https://www.yorebridgehouse.co.uk/north-yorkshire-wedding-day-in-yorkshire-dales/
 published: true
 post_date: 2020-01-29 06:49:40
 ---
