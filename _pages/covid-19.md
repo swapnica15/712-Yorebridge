@@ -1,6 +1,6 @@
 ---
 ID: 3443
-post_title: Your Safe Haven
+post_title: Yore Safe Haven
 author: Bryan Richards
 post_excerpt: ""
 layout: page
