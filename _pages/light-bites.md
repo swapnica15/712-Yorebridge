@@ -31,11 +31,8 @@ Served 12-3pm
 <p class="sub-menu">Served on your choice of White or Granary Sliced Bloomer Bread &amp; Kettle Chips</p>
 
 <p><span class="menu-strong">Free Range Egg &amp; Watercress
-
 Smoked Salmon &amp;Cucumber
-
 Yorkshire Ham &amp; Wholegrain Mustard
-
 Wensleydale Cheese &amp; Tomato Chutney</span></p></div>
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 
