@@ -37,23 +37,19 @@ Wensleydale Cheese &amp; Tomato Chutney</span></p></div>
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 
 <p><span class="menu-strong">Cream Tea £7.50</span>
-
 Served with your choice of Tea or Coffee
 Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
 
 <p><span class="menu-strong">Afternoon Tea £19.50pp</span>
-
 Served with your choice of Tea or Coffee
 Selection of Finger Sandwiches
 Selection of Cakes &amp; Treats
 Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
 
 <p><span class="menu-strong">Sparkling Afternoon Tea £31.50pp</span>
-
 Our Full Afternoon Tea Selection plus a Glass of Laurent-Perrier Champagne</p>
 
 <p><span class="menu-strong">‘G &amp; Tea’ £25.50pp</span>
-
 Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic</p>
 
 </div>
