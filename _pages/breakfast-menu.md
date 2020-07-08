@@ -35,7 +35,7 @@ Yockenthwaite Farm Granola
 Homemade Bircher Muesli
 Greek Yoghurt</p>
 <p><span class="menu-strong">From the Kitchen</span></p>
-<p><span class="menu-strong">Yorebridge Breakfast</span></p>
+<p class="menu-head"><span class="menu-strong">Yorebridge Breakfast</span></p>
 <p class="sub-menu">Cumberland Sausage, Thick Cut - Smoked Back Bacon &amp; Black Pudding from Hammonds Butchers, Flat Cap Mushroom, Vine Tomato &amp; Wensleydale Eggs of Your Choice.</p>
 <p><span class="menu-strong">Smoked Salmon &amp; Scrambled Eggs</span></p>
 <p><span class="menu-strong">Eggs Benedict </span></p></div>
