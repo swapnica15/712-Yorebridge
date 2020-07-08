@@ -61,6 +61,7 @@ Served 5.30-9pm
 
 <p>An optional 10% service charge will be added to your bill for the hard work & dedication of our staff, if you would prefer to decline from this could you please inform your waiter.</p>
 </div>
+
 <div class="full-width-content-with-padding text-center">
 <p><span class="menu-strong">Suppliers</span></p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
@@ -76,7 +77,7 @@ Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring
 Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
 Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
 
-<p style="text-align: center;"><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
+<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
 Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
 
