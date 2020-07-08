@@ -76,7 +76,7 @@ Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair 
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
 Alan Hodgson is personal friend and advocate of Yorebridge House!
 
-<p class="menu-head"><span class="menu-strong">Wensleydale Creamery (Hawes)</span></p>
+<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span></p>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!
 
 </div>
