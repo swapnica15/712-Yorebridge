@@ -36,25 +36,25 @@ Yorkshire Ham &amp; Wholegrain Mustard
 Wensleydale Cheese &amp; Tomato Chutney</span></p></div>
 <div class="row-has-bottom-border full-width-content-with-padding text-center">
 
-<p><span class="menu-strong">Cream Tea £7.50</span>
+<p><span class="menu-strong">Cream Tea £7.50</span></p>
 
 Served with your choice of Tea or Coffee
-Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
+Fruit Scones, Clotted Cream &amp; Strawberry Jam
 
-<p><span class="menu-strong">Afternoon Tea £19.50pp</span>
+<p><span class="menu-strong">Afternoon Tea £19.50pp</span></p>
 
 Served with your choice of Tea or Coffee
 Selection of Finger Sandwiches
 Selection of Cakes &amp; Treats
-Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
+Fruit Scones, Clotted Cream &amp; Strawberry Jam
 
-<p><span class="menu-strong">Sparkling Afternoon Tea £31.50pp</span>
+<p><span class="menu-strong">Sparkling Afternoon Tea £31.50pp</span></p>
 
 Our Full Afternoon Tea Selection plus a Glass of Laurent-Perrier Champagne
 
 <p><span class="menu-strong">‘G &amp; Tea’ £25.50pp</span></p>
 
-Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic</p>
+Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic
 
 </div>
 <div class="full-width-content-with-padding text-center">
@@ -63,21 +63,21 @@ Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic</p>
 
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
 
-<p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span>
+<p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span></p>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
 Meat to us since the first day we opened in 2008.
-Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.</p>
+Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.
 
-<p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span>
+<p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span></p>
 Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
-Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
+Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!
 
-<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
+<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span></p>
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
-Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
+Alan Hodgson is personal friend and advocate of Yorebridge House!
 
-<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span>
-In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!</p>
+<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span></p>
+In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!
 
 </div>
 </div>
