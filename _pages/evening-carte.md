@@ -68,22 +68,21 @@ There is an abundance of great produce all around us in North Yorkshire and we a
 
 In 2017 we launced our kitchen garden which now supplies vegetables and fresh fruit for your menu as well as cresses and herbs to garnish your cocktails. The garden is tended to by our team of chefs and has provided a welcome respite from the lockdown over the last 14 weeks!
 
-<p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span>
+<p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span></p>
 Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
 Meat to us since the first day we opened in 2008.
-Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.</p>
-
-<p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span>
+Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.
+<p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span></p>
 Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
-Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
+Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!
 
-<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
+<p><span class="menu-strong">Hodgson Fish (Hartlepool)</span></p>
 Hodgson fish is one of the best-known fishmongers on the East Coast, delivering to top hotels and restaurants throughout the North of England.
-Alan Hodgson is personal friend and advocate of Yorebridge House!</p>
+Alan Hodgson is personal friend and advocate of Yorebridge House!
 
-<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span>
+<p><span class="menu-strong">Wensleydale Creamery (Hawes)</span></p>
 In December 2013, this Yorkshire Cheese achieved European Protected Geographical Indication (PGI) which means it can only be produced here, in Wensleydale – much like the protected status of the worlds best Champagnes!
 
-You can go and visit the Wensleydale Creamery Visitor Centre between 10am & 4pm Monday-Saturday, watch all of the cheeses being made and purchase a slice of Wensleydale to take home with you!</p>
+You can go and visit the Wensleydale Creamery Visitor Centre between 10am & 4pm Monday-Saturday, watch all of the cheeses being made and purchase a slice of Wensleydale to take home with you!
 </div>
 </div>
