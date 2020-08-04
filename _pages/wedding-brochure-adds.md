@@ -86,15 +86,15 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <!--- First Add Row Starts -->
 <div class="row row-add-height adv-row1">
 <div class="col-md-6">
-<!-- <div class="yr-content-title">
+<div class="yr-content-title">
 <h3>Award Winning Hotel &amp; Restaurent</h3>
 </div>
 <div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
-<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>-->
+<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
 
 </div> 
 <div class="col-md-6 caro-ads_img">
-<!-- <div class="row caro-ads ">
+<div class="row caro-ads ">
 <div class="col-sm-3">
 <div class="logo_1"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/outstanding.jpg" /></div>
 </div>
@@ -141,7 +141,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <div class="logo_3"><img class="img-fluid" src="https://dev1.yorebridgehouse.co.uk/wp-content/uploads/2018/12/Winner-Sticker-Square.jpg" /></div>
 </div>
 
-</div> -->
+</div> 
 </div>
 <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> 
 
