@@ -143,7 +143,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 
 </div> -->
 </div>
-<!-- <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> -->
+<p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> 
 
 </div>
 <!--- First Add Row Ends -->
