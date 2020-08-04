@@ -90,9 +90,9 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <h3>Award Winning Hotel &amp; Restaurent</h3>
 </div>
 <div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
-<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
+<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>-->
 
-</div> -->
+</div> 
 <div class="col-md-6 caro-ads_img">
 <!-- <div class="row caro-ads ">
 <div class="col-sm-3">
