@@ -232,7 +232,7 @@ Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire 
 <!--- Seventh Row Starts -->
 <div class="row row-height yr-four yr-content yr-imgs seventh-row">
 <div class="col-sm-3 yr-col-imgs one">
-<div class="yr-col-content w-100 h-50">
+<div class="yr-col-content w-100 h-50 small-rp">
 <div class="yr-content-block w-100 h-100 mini-liner">
 <div class="yr-content-title">
 <h3 class="">Winter Weddings</h3>
