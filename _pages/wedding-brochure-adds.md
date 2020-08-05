@@ -267,7 +267,7 @@ With its snow-covered hills and
 </div>
 <div class="col-sm-3 yr-col-imgs">
 
-<img class="img-fluid w-100 h-50" src="../brochure-images/Yorebridge-Weddings-27-min.jpg" alt="Chania" />
+<div class="h-50"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-27-min.jpg" alt="Chania" /></div>
 <div class="yr-content-block w-100 h-50 mini-liner">
 <div class="yr-content-title">
 <h3 class="">New Year’s Eve</h3>
