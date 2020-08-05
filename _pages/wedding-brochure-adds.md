@@ -26,7 +26,7 @@ post_date: 2020-08-04 06:56:35
 <div>
 <div class="always">
 
-Experiance a Luxury Wedding at Yorebridge House in the Yorkshire Dales for the most amazing day you will never forget.
+Experience a Luxury Wedding at Yorebridge House in the Yorkshire Dales for the most amazing day you will never forget.
 
 </div>
 </div>
@@ -61,7 +61,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 
 The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.
 
-With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by reception at Torebridge House.
+With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by a reception at Torebridge House.
 
 Local vicar and registrars contact details available on request.
 
@@ -198,7 +198,7 @@ Based on a traditional Scandinavian design, made from natural materials, our Tip
 
 Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.
 
-Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights.
+Opt for wooden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights.
 
 </div>
 <div class="large">
@@ -207,7 +207,7 @@ Based on a traditional Scandinavian design, made from natural materials, our Tip
 
 Our Tipi receptions offer a rustic feel, seamlessly blending into the Yorkshire Dales landscape.
 
-Opt for wodden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.
+Opt for wooden tables and benches or classic rounds with crisp linen and Chiavari chairs, a log burning fire and twinkling fairy lights. The Tipi is the perfect space to feel at home in the country.
 
 Enjoy something a little bit different for up to 100 guests.
 
@@ -246,14 +246,14 @@ With it’s snow covered hills and frosty pines,
 </div>
 <div class="large">
 
-With it’s snow covered hills and frosty pines, there’s no where quite like the Yorkshire Dales in Winter. Warm up by the open fire and celebrate by candlelight with a wonderful winter wedding.
+With its snow-covered hills and frosty pines, there’s nowhere quite like the Yorkshire Dales in Winter. Warm-up by the open fire and celebrate by candlelight with a wonderful winter wedding.
 
-For an utterly magical and romantic day we offer special Winter rates throughout November,January and February.
+For an utterly magical and romantic day, we offer special Winter rates throughout November, January and February.
 
 </div>
 <div class="small">
 
-With it’s snow covered hills and
+With its snow-covered hills and
 
 </div>
 </div>
@@ -354,7 +354,7 @@ British cheese selection with biscuits, celery, grapes and chutney
 
 Hot buffet of seasonal dishes (supplement applies)
 
-Or the option to opganise external catering.
+Or the option to organise external catering.
 
 </div>
 <div class="small">
@@ -409,19 +409,19 @@ Beef Sirloin, Chateau Potato &amp; Yorkshire Pudding
 
 Gilt Head Sea Bream, Tomato &amp; Olive
 
-Nidderdale Chicken, Tarrangon &amp; Mushroom
+Nidderdale Chicken, Tarragon &amp; Mushroom
 
 Poached Duck Egg, Hollandaise Sause &amp; Truffle (V)
 <h4>Desserts</h4>
 Sticky Toffee Pudding, Toffee Sauce &amp; Madagascan Vanilla Ice-Cream
 
-Dark Chocolate Browine, HAzzelnut &amp; Praline Ice-Cream
+Dark Chocolate Brownie, Hazelnut &amp; Praline Ice-Cream
 
 Custard Tart, Nutmeg &amp; Raspberry Sorbet
 
-Cheesecake, Passion fruit, Ginger &amp; MAngo Sorbet
+Cheesecake, Passion fruit, Ginger &amp; Mango Sorbet
 
-Cherry &amp; Almong Tart
+Cherry &amp; Almond Tart
 
 </div>
 <div class="small">
@@ -648,7 +648,7 @@ For a unique and indulgent experience head down
 <div>
 <div class="normal">
 
-Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep, to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
+Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
 
 Here is a list of a few of the options for entertaining your guests throughout your visit.
 <h4>Activities</h4>
@@ -659,7 +659,7 @@ Clay Pigeon Shooting
 </div>
 <div class="large">
 
-Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep, to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
+Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
 
 Here is a list of a few of the options for entertaining your guests throughout your visit.
 <h4>Activities</h4>
@@ -700,7 +700,7 @@ Hawes to Hardraw
 </div>
 <div class="small">
 
-Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep, to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
+Yorebridge House is in the heart of Wensleydale which is the ideal location for many wonderful countryside activities and pursuits, from a simple walk from our doorstep to helicopter tours of the Dales, we can organise a variety of adventures to enhance your stay.
 
 Here is a list of a few of the options for entertaining your guests throughout your visit.
 
@@ -725,11 +725,11 @@ A glass of Prosecco or soft drink for your reception
 
 Toast drink for during speeches
 
-Half a bottle of sommelier selected wine with your wedding breakfast
+Half a bottle of sommelier-selected wine with your wedding breakfast
 
 A selection of three canapés
 
-A three course menu prepared by our 3AA rosette kitchen team
+A three-course menu prepared by our 3AA rosette kitchen team
 
 </div>
 <div class="large">
@@ -738,11 +738,11 @@ A glass of Prosecco or soft drink for your reception
 
 Toast drink for during speeches
 
-Half a bottle of sommelier selected wine with your wedding breakfast
+Half a bottle of sommelier-selected wine with your wedding breakfast
 
 A selection of three canapés
 
-A three course menu prepared by our 3AA rosette kitchen team
+A three-course menu prepared by our 3AA rosette kitchen team
 
 Still and sparkling water
 
@@ -758,7 +758,7 @@ Wedding coordinator to assist in every stage of your planning
 
 Master of Ceremonies on your day
 
-Dressing Service with your choosen decorations
+Dressing Service with your chosen decorations
 
 Table linen and napkins
 
@@ -777,7 +777,7 @@ A glass of Prosecco or soft drink for your reception
 
 Toast drink for during speeches
 
-Half a bottle of sommelier selected wine with your wedding breakfast
+Half a bottle of sommelier-selected wine with your wedding breakfast
 
 A selection of three canapés
 
@@ -813,7 +813,7 @@ A selection of three canapés
 <h2>The Simple Life at a Luxury Level</h2>
 With the stunning backdrop of dramatic hillsides and rivers, our Victorian grade II listed, former Headmaster's House and School, sit proud and welcoming in the heart of the Yorkshire Dales.
 
-We promise luxury, relaxation and beautiful interiors, as well as a superb 3AA Rosettr menu, a bespoke wine and bar list and a personal and professional service from the moment you arrive.
+We promise luxury, relaxation and beautiful interiors, as well as a superb 3AA Rosettr menu, a bespoke wine and bar list and personal and professional service from the moment you arrive.
 
 Voted the most romantic hotel in the UK, we pride ourselves on creating the most amazing day you will never forget.
 
