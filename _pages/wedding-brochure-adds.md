@@ -576,7 +576,7 @@ Cocktails
 <div class="col-sm-3 yr-col-imgs">
 <div class="row m-0 h-100">
 <div class="col-sm-6 yr-thumbnails"><img class="img-fluid w-100 h-66-5" src="../brochure-images/Yorebridge-Weddings-50-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33-5" src="../brochure-images/Yorebridge-Weddings-49-min.jpg" alt="Chania" /></div>
-<div class="col-sm-6 yr-thumbnails"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-53-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-52-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-51-min.jpg" alt="Chania" /></div>
+<div class="col-sm-6 yr-thumbnails"><img class="img-fluid w-100 h-33" src="../brochure-images/Yorebridge-Weddings-53-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33-3" src="../brochure-images/Yorebridge-Weddings-52-min.jpg" alt="Chania" /><img class="img-fluid w-100 h-33-5" src="../brochure-images/Yorebridge-Weddings-51-min.jpg" alt="Chania" /></div>
 </div>
 </div>
 <div class="col-sm-3 yr-col-imgs">
