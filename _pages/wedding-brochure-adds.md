@@ -316,6 +316,8 @@ A perfect ending and a perfect beginning.
 </div>
 <!--- Seventh Row Ends -->
 <!--- Second Add Row Starts -->
+<div class="col-sm-2 trip-logo trip-logo-mobile-view"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a></div>
+
 <div class="row row-add-height second-adv tripadvisor adv-row1">
 <div class="col-sm-5 caro-ads_img one">
 [slide-anything id="3518"]
