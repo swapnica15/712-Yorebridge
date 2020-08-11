@@ -61,7 +61,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 
 The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.
 
-With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by a reception at Torebridge House.
+With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by a reception at Yorebridge House.
 
 Local vicar and registrars contact details available on request.
 
@@ -87,7 +87,7 @@ The Orangery, a beautiful room with panoramic views of the Dale, is perfect for 
 <div class="row row-add-height adv-row1">
 <div class="col-md-6">
 <div class="yr-content-title">
-<h3>Award Winning Hotel &amp; Restaurent</h3>
+<h3>Award Winning Hotel &amp; Restaurant</h3>
 </div>
 <div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
 <p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
@@ -409,7 +409,7 @@ Cured Salmon, Beetroot &amp; Watercress
 
 Venison Carpaccio, Pickled Shimeji &amp; Chocolate
 <h4>Mains</h4>
-Wensleydale LAmb, Fondant Potato &amp; Creamed Cabbage
+Wensleydale Lamb, Fondant Potato &amp; Creamed Cabbage
 
 Beef Sirloin, Chateau Potato &amp; Yorkshire Pudding
 
