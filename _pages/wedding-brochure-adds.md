@@ -324,7 +324,7 @@ A perfect ending and a perfect beginning.
 [slide-anything id="3518"]
 </div>
 
-<div class="col-sm-2 trip-logo"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a></div>
+<div class="col-sm-2 trip-logo"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tpad_ratings.png" /></a></div>
 
 <div class="col-sm-5 caro-ads_img two">
 [slide-anything id="3519"]
