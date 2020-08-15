@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/light-bites/
+  http://sandbox.yorebridgehouse.co.uk/light-bites/
 published: true
 post_date: 2020-07-08 07:07:58
 ---
@@ -65,7 +65,7 @@ Meat to us since the first day we opened in 2008.
 Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.</p>
 
 <p><span class="menu-strong">Wellocks Fruit And Veg (Lomeshaye)</span>
-Wellocks supplies every michelin-starred restaurant in the North, as well as many other high-quality restaurants.
+Wellocks supplies every Michelin-starred restaurant in the North, as well as many other high-quality restaurants.
 Dan has worked with Pasque since his Rockliffe Hall days 10 years ago, the pair strive to promote the finest ingredients from small UK suppliers to achieve a luxury menu!</p>
 
 <p><span class="menu-strong">Hodgson Fish (Hartlepool)</span>
