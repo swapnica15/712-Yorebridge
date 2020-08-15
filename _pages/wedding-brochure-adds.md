@@ -146,7 +146,7 @@ Voted the most romantic hotel in the UK, we pride ourselves on creating the most
 <div>
 <div class="normal">
 
-Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
+Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.
 
 With full use of the House as the marquee your guests can enjoy the elegant interiors and the beautiful outdoors.
 
@@ -155,7 +155,7 @@ The marquee offers a light and striking space for you to make your own, with a c
 </div>
 <div class="large">
 
-Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
+Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.
 
 With full use of the House as the marquee your guests can enjoy the elegant interiors and the beautiful outdoors.
 
@@ -166,7 +166,7 @@ Enjoy a graceful and elegant reception amongst stunning countryside, perfect for
 </div>
 <div class="small">
 
-Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
+Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.
 
 With full use of the House as the marquee your guests can enjoy the
 
@@ -861,7 +861,7 @@ Local vicar and registrars contact details available on request.
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Marquee Reception</h2>
-Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
+Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.
 
 With full use of the House as the marquee, your guests can enjoy the elegant interiors and the beautiful outdoors.
 
