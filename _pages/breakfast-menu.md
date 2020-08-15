@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/breakfast-menu/
+  https://www.yorebridgehouse.co.uk/breakfast-menu/
 published: true
 post_date: 2020-07-08 07:24:24
 ---
