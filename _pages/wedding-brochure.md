@@ -58,7 +58,7 @@ post_date: 2019-10-30 06:57:13
                   <p>We have two beautiful rooms licensed for civil marriages and civil partnerships.</p>
                   <p>The Orangery, a beautiful room with panoramic views of the Dale, is perfect for up to 90 guests seated, more with standing.</p>
                   <p>The Masters Room, with it’s large bay window overlooking the lawn, creates an elegant setting ideal for an intimate ceremony for up to 25 guests.</p>
-                  <p>With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by reception at Torebridge House.</p>
+                  <p>With five beautiful churches nearby, Askrigg, Hawes, Hardraw, Stalling Busk and Aysgarth there is also the option for a church ceremony followed by reception at Yorebridge House.</p>
                   <p>Local vicar and registrars contact details available on request.</p>
                 </div>
                 <div class="small">
@@ -131,18 +131,18 @@ post_date: 2019-10-30 06:57:13
             <div class="yr-content-body">
               <div>
                 <div class="normal">
-                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.</p>
+                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.</p>
                   <p>With full use of the House as the marquee your guests can enjoy the elegant interiors and the beautiful outdoors.</p>
                   <p>The marquee offers a light and striking space for you to make your own, with a choice of windows, table styles and decorations to create the wedding of your dreams.</p>  
                 </div>
                 <div class="large">
-                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.</p>
+                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.</p>
                   <p>With full use of the House as the marquee your guests can enjoy the elegant interiors and the beautiful outdoors.</p>
                   <p>The marquee offers a light and striking space for you to make your own, with a choice of windows, table styles and decorations to create the wedding of your dreams.</p>                
                   <p>Enjoy a graceful and elegant reception amongst stunning countryside, perfect for up to 120 guests.</p>
                 </div>
                 <div class="small">
-                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.</p>
+                  <p>Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.</p>
                   <p>With full use of the House as the marquee your guests can enjoy the</p>
                 </div>
               </div>
@@ -724,7 +724,7 @@ Local vicar and registrars contact details available on request.
 
 <button class="close" type="button" data-dismiss="modal">×</button>
 <h2>Marquee Reception</h2>
-Situated on the formal lawn with a candlelit walkaway to the House and bar our classic Marquee is the ideal setting for an English garden wedding.
+Situated on the formal lawn with a candlelit walkaway to the House and bar our classic marquee is the ideal setting for an English garden wedding.
 
 With full use of the House as the marquee, your guests can enjoy the elegant interiors and the beautiful outdoors.
 
