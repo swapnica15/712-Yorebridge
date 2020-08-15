@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/evening-carte/
+  https://www.yorebridgehouse.co.uk/evening-carte/
 published: true
 post_date: 2020-07-08 07:23:13
 ---
@@ -40,7 +40,7 @@ Served 5.30-9pm
 <p class="menu-head"><span class="menu-strong">Wensleydale Lamb Rump </span>| Chorizo & Jersey Royals</p>
 <p class="sub-menu">Nero D’Avola, Zensa, Sicilly, £12</p>
 
-<p class="menu-head"><span class="menu-strong">Nidderdale Chicken </span>| Brassicas & Pine Nuts</p>
+<p class="menu-head"><span class="menu-strong">Nidderdale Chicken </span>| Brasicas & Pine Nuts </p>
 <p class="sub-menu">Pessac-Leognan Blanc, Château Rouillac, £20</p>
 
 <p class="menu-head"><span class="menu-strong">Potato Gnocchi </span>| Kidderton Ash & King Oyster Mushrooms (V)</p>
