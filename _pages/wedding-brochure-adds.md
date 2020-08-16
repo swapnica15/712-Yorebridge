@@ -1,6 +1,6 @@
 ---
 ID: 3440
-post_title: Wedding Brochure adds
+post_title: Wedding Brochure Adds
 author: Bryan Richards
 post_excerpt: ""
 layout: page
