@@ -79,7 +79,19 @@ post_date: 2020-08-16 04:27:44
         </div>
       </div>  
       <!--- Second Row Ends -->
-
+      <!--- First Add Row Starts -->
+      <div class="row row-add-height adv-row1">
+         <div class="col-md-6">
+             <div class="yr-content-title">
+             <h3>Award Winning Hotel &amp; Restaurant</h3>
+         </div>
+         <div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
+         <p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
+     </div> 
+     <div class="col-md-6 caro-ads_img"> [slide-anything id="3514"] </div>
+     <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> 
+</div>
+      <!--- First Add Row Ends -->
       <!--- Third Row Starts -->
       <div class="row yr-three yr-content yr-imgs third-row">
         <div class="col-sm-3">
@@ -285,7 +297,20 @@ post_date: 2020-08-16 04:27:44
         </div>
       </div>  
       <!--- Seventh Row Ends -->
+      
+      <!--- Second Add Row Starts -->
+      <div class="row row-add-height second-adv tripadvisor adv-row1">
 
+       <div class="col-sm-2 trip-logo trip-logo-mobile-view"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/trip-adver-ratings.png" /></a></div>
+
+       <div class="col-sm-5 caro-ads_img one">[slide-anything id="3518"]</div>
+
+       <div class="col-sm-2 trip-logo"><a href="https://www.tripadvisor.co.uk/Hotel_Review-g1062542-d953801-Reviews-Yorebridge_House-Bainbridge_Yorkshire_Dales_National_Park_North_Yorkshire_England.html" target="_blank" rel="noopener"><img class="img-fluid px-20 tripadvisor-logo" src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/tpad_ratings.png" /></a></div>
+
+       <div class="col-sm-5 caro-ads_img two"> [slide-anything id="3519"] </div>
+
+     </div>
+      <!--- Second Add Row Ends -->
       <!--- Eighth Row Starts -->
       <div class="row yr-four yr-content yr-imgs eighth-row">
         <div class="col-sm-3">
