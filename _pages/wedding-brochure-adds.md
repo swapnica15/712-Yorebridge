@@ -88,7 +88,7 @@ post_date: 2020-08-16 04:27:44
          <div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
          <p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
      </div> 
-     <div class="col-md-6 caro-ads_img"> [slide-anything id="3514"] </div>
+     <div class="col-md-6 caro-ads_img"> [slide-anything id="3509"] </div>
      <p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> 
 </div>
       <!--- First Add Row Ends -->
