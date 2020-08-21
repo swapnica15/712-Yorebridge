@@ -1,11 +1,11 @@
 ---
 ID: 3300
-post_title: Wedding Brochure
+post_title: Wedding Brochure without Adds
 author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/wedding-brochure/
+  https://www.yorebridgehouse.co.uk/wedding-brochure-wo-adds/
 published: true
 post_date: 2019-10-30 06:57:13
 ---
