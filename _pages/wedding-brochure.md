@@ -1,11 +1,11 @@
 ---
 ID: 3440
-post_title: Wedding Brochure Adds
+post_title: Wedding Brochure
 author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/wedding-brochure-adds/
+  https://www.yorebridgehouse.co.uk/wedding-brochure/
 published: true
 post_date: 2020-08-16 04:27:44
 ---
