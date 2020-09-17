@@ -22,7 +22,7 @@ We will continue to monitor the advice from the government to ensure these polic
 Our new covid-secure policies &amp; procedures include, but are not limited to:
 <ul class="bulet">
  	<li>Enhanced hotel-wide cleaning routines in-line with infection control guidance.</li>
- 	<li>Hand sanitizing stations as well as gloves &amp; masks available for guest use on request – please note as of August 8th face masks are mandatory and enforceable by law in public areas of hotels, once seated for food or drinks you can remove your covering.</li>
+ 	<li>Hand sanitizing stations as well as gloves &amp; masks available for guest use on request – please note as of August 8<sup>th</sup> face masks are mandatory and enforceable by law in public areas of hotels, once seated for food or drinks you can remove your covering.</li>
  	<li>Disposable letters in place of hotel directories &amp; menu folders.</li>
  	<li>Removal of newspapers from communal areas (personal copies can be pre-ordered).</li>
  	<li>Team members serving food or beverages will wear face coverings where a 2m distance is not achievable for your safety &amp;amp; comfort.</li>
