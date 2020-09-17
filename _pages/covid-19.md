@@ -37,6 +37,7 @@ Similarly, if you are displaying any symptoms of coronavirus or have been in clo
 
 Should there be any reason why you cannot make your reservation please contact us and we will do our utmost to transfer your deposit to a later date.
 
+
 <p id="sample-menu" style="text-align: center;" >
 <a class="button bf_menu" href="/breakfast-menu/">View our Covid-Secure Breakfast Menu</a> 
 <a class="button lb_menu" href="/light-bites/">View our Covid-Secure Light Bites Menu</a>
