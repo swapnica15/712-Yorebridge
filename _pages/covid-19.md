@@ -5,12 +5,12 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/covid-19/
+  http://sandbox.yorebridgehouse.co.uk/covid-19/
 published: true
 post_date: 2020-06-11 08:31:46
 ---
 <div class="section-title section-title-followed-by-content covid-head">
-<h2 id="good-to-go">Covid-Secure Policies &amp;amp; Procedures</h2>
+<h2 id="good-to-go">Covid-Secure Policies &amp; Procedures</h2>
 <p class="good-to-go"><a href="https://www.yorebridgehouse.co.uk/downloads/Good-To-Go-certificate.pdf"><img src="https://www.yorebridgehouse.co.uk/wp-content/uploads/2018/12/good_to_go_certificate.jpg" alt=""></a></p>
 </div>
 Thank you so much for your understanding and patience of our “new normal” policies and procedures which have been updated as of  September 7<sup>th</sup>. These are detailed below:
