@@ -5,7 +5,7 @@ author: Yorebridge House
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/restaurant/
+  https://www.yorebridgehouse.co.uk/restaurant/
 published: true
 post_date: 2018-10-11 14:44:42
 ---
