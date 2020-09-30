@@ -9,7 +9,92 @@ permalink: >
 published: true
 post_date: 2020-08-04 06:56:35
 ---
-<div class="yr-container-fluid"><!--- First Row Starts -->
+<div class="yr-container-fluid">
+<div class="row yb-flex-layout">
+			<div class="col-sm-10">
+				<div class="row yb-flex-layout" data-video-id="1212" data-video-layout-rtl="false">
+					<div class="col-sm-3 section-video-thumbnail" data-video-carousel-id="1212">          
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 1</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 2</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 3</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 4</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 5</h4>
+								<p>Describtion</p>
+							</div>
+						</div>
+						<div class="video-thumbnail">
+							<div class="video-content">
+								<h4>Title 6</h4>
+								<p>Describtion</p>
+							</div>
+						</div>											          
+					</div>
+					<div class="col-sm-9 px-0 section-video-block owl-carousel" data-video-slides-id="1212" data-video-layout-autoplay="disabled" data-video-layout-loop="enabled" data-video-layout-autoplay_interval="5000">
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/09f/fff)">
+							<a href="#">Play</a>
+						</div>		
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/ef0/fff)">
+							<a href="#">Play</a>
+						</div>
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/000/fff)">
+							<a href="#">Play</a>
+						</div>
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/0f0/fff)">
+							<a href="#">Play</a>
+						</div>
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/f00/fff)">
+							<a href="#">Play</a>
+						</div>
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/00f/fff)">
+							<a href="#">Play</a>
+						</div>
+						<div class="video-container" style="background-image: url(https://via.placeholder.com/1250x600/555/fff)">
+							<a href="#">Play</a>
+						</div>												
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-2 px-0 section-social">
+				<div class="social-block">
+					<ul>
+						<li><a target="_blank" href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
+						<li><a target="_blank" href="#"><i class="fa fa-twitter fa-fw"></i></a></li>
+						<li><a target="_blank" href="#"><i class="fa fa-instagram fa-fw"></i></a></li>
+						<li><a target="_blank" href="#"><i class="fa fa-pinterest fa-fw"></i></a></li>
+						<li><a target="_blank" href="#"><i class="fa fa-vimeo fa-fw"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+<!--- First Row Starts -->
 <div class="row row-height yr-two yr-imgs first-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania" /></div>
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-10-min.jpg" alt="Chania" /></div>
