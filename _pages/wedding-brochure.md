@@ -65,7 +65,8 @@ post_date: 2020-08-04 06:56:35
          </div>
     <div class="col-sm-9 px-0 section-video-block owl-carousel" data-video-slides-id="1212" data-video-layout-autoplay="disabled" data-video-layout-loop="enabled" data-video-layout-autoplay_interval="5000">
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/09f/fff)">
-							<a href="#">Play</a>
+							<iframe src="https://player.vimeo.com/video/3873878" width="320" height="240" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 						</div>		
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/ef0/fff)">
 							<a href="#">Play</a>
