@@ -17,25 +17,25 @@ post_date: 2020-08-04 06:56:35
 	    <div class="video-thumbnail">
 	       <div class="video-content">
 		<h4>YOREBRIDGE WEEDING TESTIMONIAL</h4>
-		<p>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</p>
+		<h5>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</h5>
 	       </div>
 	     </div>
              <div class="video-thumbnail">
 	       <div class="video-content">
 		<h4>YOREBRIDGE WEEDING TESTIMONIAL</h4>
-		<p>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</p>
+		<h5>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</h5>
 	       </div>
 	     </div>
              <div class="video-thumbnail">
 	       <div class="video-content">
 		<h4>YOREBRIDGE WEEDING TESTIMONIAL</h4>
-		<p>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</p>
+		<h5>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</h5>
 	       </div>
 	     </div>
              <div class="video-thumbnail">
 	       <div class="video-content">
 		<h4>YOREBRIDGE WEEDING TESTIMONIAL</h4>
-		<p>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</p>
+		<h5>Craig & Jenny ~ mini-film. Yorebridge House, North Yorkshire Dales</h5>
 	       </div>
 	     </div>																          
          </div>
