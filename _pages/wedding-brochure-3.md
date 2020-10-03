@@ -10,6 +10,23 @@ published: true
 post_date: 2020-10-03 12:08:58
 ---
 <div class="yr-container-fluid">
+<!--- First Add Row Starts -->
+<div class="row row-add-height adv-row1">
+<div class="col-md-6">
+<div class="yr-content-title">
+<h3>Award Winning Hotel &amp; Restaurant</h3>
+</div>
+<div class="tripadvisor-content">We are driven by our joy in sharing our passion for luxury, fine dining, quality, comfort and the good old Yorkshire Dales with our guests. We take great pride in all the awards that we achieve, not only for ourselves, but also to celebrate and promote our wonderful county and encourage visitors from worldwide and Welcome them to Yorkshire, the Dales and Herriot Country!</div>
+<p class="view-all-awards1"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p>
+
+</div> 
+<div class="col-md-6 caro-ads_img">
+[slide-anything id="3514"]
+</div>
+
+<p class="view-all-awards2"><a class="button" href="https://www.yorebridgehouse.co.uk/downloads/Yorebridge-Awards.pdf">View all our Awards</a></p> 
+</div>
+<!--- First Add Row Ends -->
 <!--- First Row Starts -->
 <div class="row row-height yr-two yr-imgs first-row">
 <div class="col-sm-6"><img class="img-fluid w-100 h-100" src="../brochure-images/Yorebridge-Weddings-2-min.jpg" alt="Chania" /></div>
