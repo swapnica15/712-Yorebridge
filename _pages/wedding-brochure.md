@@ -89,7 +89,7 @@ post_date: 2020-08-04 06:56:35
 					</div>
 				</div>
 			</div>
-		<!--	<div class="col-sm-2 px-0 section-social">
+			<div class="col-sm-2 px-0 section-social">
 				<div class="social-block">
 					<ul>
 						<li><a target="_blank" href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
@@ -99,7 +99,7 @@ post_date: 2020-08-04 06:56:35
 						<li><a target="_blank" href="#"><i class="fa fa-vimeo fa-fw"></i></a></li>
 					</ul>
 				</div>
-			</div> -->
+			</div>
 		</div>
 <!--- First Row Starts -->
 <div class="row row-height yr-two yr-imgs first-row">
