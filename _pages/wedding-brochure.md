@@ -65,26 +65,26 @@ post_date: 2020-08-04 06:56:35
          </div>
     <div class="col-sm-9 px-0 section-video-block owl-carousel" data-video-slides-id="1212" data-video-layout-autoplay="disabled" data-video-layout-loop="enabled" data-video-layout-autoplay_interval="5000">
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/09f/fff)">
-							<iframe src="https://player.vimeo.com/video/3873878" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 						</div>		
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/ef0/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/000/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/0f0/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/f00/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/00f/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 						<div class="yr-video-container" style="background-image: url(https://via.placeholder.com/1250x600/555/fff)">
-							<a href="#">Play</a>
+							<iframe width="1000" height="500" src="https://www.youtube.com/embed/BzlFIVQA5cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>												
 					</div>
 				</div>
