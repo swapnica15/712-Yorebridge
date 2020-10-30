@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/contact/
+  http://sandbox.yorebridgehouse.co.uk/contact/
 published: true
 post_date: 2019-09-04 07:48:26
 ---
@@ -32,7 +32,7 @@ For directions to the hotel please use <a href="https://goo.gl/maps/kWCTELZzwdD2
 </div>
 </div>
 <div class="column-one-half contact-column">
-<div class="content-padding"><form id="quote_form" role="form" action="" method="post">
+<div class="content-padding"><!-- <form id="quote_form" role="form" action="" method="post">
 <div class="form_row">
 <div class="column-one-half">
 <div class="form-group"><label for="first_name">First Name *<span class="wpcf7-form-control-wrap your-name"><input id="first_name" class="form-control" name="form_name" pattern="[A-Za-z][A-Za-z\s]{2,}" required="true" type="text" oninvalid="this.setCustomValidity('First Name to be alphabets characters only. Minimum 3')" oninput="this.setCustomValidity('')" /></span></label></div>
@@ -78,7 +78,11 @@ For directions to the hotel please use <a href="https://goo.gl/maps/kWCTELZzwdD2
 <div id="recaptcha" class="g-recaptcha" data-sitekey="6Ld3ZrAUAAAAAH1nGKCOZgGq-ECOCgZRVMob5Vnm"></div>
 </div>
 <div class="form_row captcha_gap"><button id="btn-validate" class="baton contact_button" onclick="return callValidation();">Send Your Query</button></div>
-</form></div>
+</form> -->
+
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script> <script> hbspt.forms.create({ portalId: "8682020", formId: "9fe407a4-6a97-4ae8-9ffa-f51d986b0d8b" }); </script>
+
+</div>
 </div>
 </div>
 <div class="map-full-width">
