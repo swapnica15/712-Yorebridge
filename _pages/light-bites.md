@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.yorebridgehouse.co.uk/light-bites/
+  http://sandbox.yorebridgehouse.co.uk/light-bites/
 published: true
 post_date: 2020-07-08 07:07:58
 ---
@@ -60,7 +60,7 @@ Our Full Afternoon Tea Selection plus a Refreshing Local Gin &amp; Tonic</p>
 There is an abundance of great produce all around us in North Yorkshire and we are proud to champion them, following the easing of the lockdown we have worked tirelessly with our local suppliers to ensure maximum compliance with COVID-secure policies and procedures.
 
 <p><span class="menu-strong">Hammonds Butchers (Bainbridge)</span>
-Situated a couple of minutes from Yorebridge House, this family-run butchers has supplied
+Situated a couple of minutes from Yorebridge House, this family run butchers has supplied
 Meat to us since the first day we opened in 2008.
 Head chef Dan and ‘Gadge’ have worked together for the last 7 years to bring the best quality, local meat to the table.</p>
 
