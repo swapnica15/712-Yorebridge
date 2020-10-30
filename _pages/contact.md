@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: page
 permalink: >
-  http://sandbox.yorebridgehouse.co.uk/contact/
+  https://www.yorebridgehouse.co.uk/contact/
 published: true
 post_date: 2019-09-04 07:48:26
 ---
