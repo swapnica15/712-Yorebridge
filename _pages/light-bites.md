@@ -46,7 +46,7 @@ Selection of Finger Sandwiches
 Selection of Cakes &amp; Treats
 Fruit Scones, Clotted Cream &amp; Strawberry Jam</p>
 
-<p><span class="menu-strong">Sparkling Afternoon Tea £31.50pp</span>
+<p><span class="menu-strong">Sparkling Afternoon Tea £33.50pp</span>
 Our Full Afternoon Tea Selection plus a Glass of Laurent-Perrier Champagne</p>
 
 <p><span class="menu-strong">‘G &amp; Tea’ £25.50pp</span>
