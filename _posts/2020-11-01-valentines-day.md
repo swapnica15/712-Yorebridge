@@ -28,4 +28,4 @@ post_date: 2020-11-01 10:43:23
 <div>To book your stay please contact our friendly team</div>
 <div>T&Cs Apply.  Subject To Availability.</div>
 <br />
-<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" />
+<div> <img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" /></div>
