@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://sandbox.yorebridgehouse.co.uk/valentines-day/
 published: true
-post_date: 2020-01-19 10:43:23
+post_date: 2020-11-01 10:43:23
 ---
 <div class="section-title"><h2>Celebrate Valentine’s Day 2021 on the 12<sup>th</sup>, 13<sup>th</sup> & 14<sup>th</sup> February at Yorebridge House</h2></div>
 <br />
