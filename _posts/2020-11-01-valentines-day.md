@@ -10,10 +10,10 @@ published: true
 post_date: 2020-11-01 10:43:23
 ---
 <div class="section-title"><h2>Boutique Bedrooms - Award Winning Food - Private Hot Tubs - Stunning Scenery</h2></div>
+
 <div>Celebrate Valentine’s Day 2021 on the 12<sup>th</sup>, 13<sup>th</sup> & 14<sup>th</sup> February at Yorebridge House.</div>
 <br />
-<br />
-<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" />
+
 <div>We’ve created a luxurious Valentine’s Day package which includes a welcome glass of Champagne, truffles, Valentines flowers, three course evening meal in our three-rosette restaurant  (with optional wine pairing upgrade)and a hearty Yorkshire breakfast.</div>
 <br />
 
@@ -27,3 +27,5 @@ post_date: 2020-11-01 10:43:23
 <br />
 <div>To book your stay please contact our friendly team</div>
 <div>T&Cs Apply.  Subject To Availability.</div>
+<br />
+<img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" />
