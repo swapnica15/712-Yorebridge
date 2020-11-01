@@ -17,7 +17,7 @@ post_date: 2020-11-01 10:43:23
 <div>We’ve created a luxurious Valentine’s Day package which includes a welcome glass of Champagne, truffles, Valentines flowers, three course evening meal in our three-rosette restaurant  (with optional wine pairing upgrade)and a hearty Yorkshire breakfast.</div>
 <br />
 
-<a href="/valentines-enquiry-form" class="button">Register for this offer</a>
+<a href="/valentines-enquiry-form" class="button valentine-eq">Register for this offer</a>
 
 <div>Our boutique bedrooms are individually designed offering the ultimate in luxury, style and relaxation. </div>
 <br />
