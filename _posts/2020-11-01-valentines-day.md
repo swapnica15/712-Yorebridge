@@ -22,6 +22,7 @@ post_date: 2020-11-01 10:43:23
 <div>Our boutique bedrooms are individually designed offering the ultimate in luxury, style and relaxation. </div>
 <br />
 <div>As well as the lovely extras included in this package we also offer a selection of local walks and the option to add a delicious afternoon tea or walking hamper.</div>
+
 <div>House Rooms £440</div>
 <div>Hot Tub Rooms & Loft Suite £490</div>
 <br />
