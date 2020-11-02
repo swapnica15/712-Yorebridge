@@ -5,7 +5,7 @@ author: Bryan Richards
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.yorebridgehouse.co.uk/valentines-day/
+  http://sandbox.yorebridgehouse.co.uk/valentines-day/
 published: true
 post_date: 2020-11-01 10:43:23
 ---
@@ -16,8 +16,7 @@ post_date: 2020-11-01 10:43:23
 
 <div>We’ve created a luxurious Valentine’s Day package which includes a welcome glass of Champagne, truffles, Valentines flowers, three course evening meal in our three-rosette restaurant  (with optional wine pairing upgrade)and a hearty Yorkshire breakfast.</div>
 <br />
-
-<a href="/valentines-enquiry-form" class="button vertical-center">Register for this offer</a>
+<div style="text-align: center;"><a href="/valentines-enquiry-form" class="button vertical-center">Register for this offer</a></div>
 
 <div>Our boutique bedrooms are individually designed offering the ultimate in luxury, style and relaxation. </div>
 <br />
@@ -28,4 +27,4 @@ post_date: 2020-11-01 10:43:23
 <div>To book your stay please contact our friendly team</div>
 <div>T&Cs Apply.  Subject To Availability.</div>
 <br />
-<div> <img src="https://www.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" /></div>
+<div> <img src="http://sandbox.yorebridgehouse.co.uk/wp-content/uploads/2018/12/valentine-day-pic.png" /></div>
